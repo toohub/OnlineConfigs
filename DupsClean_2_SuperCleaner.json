@@ -1,0 +1,19 @@
+{
+  "FakeDisct"                         : "0",
+  "FreeBlockers"                      : "ads,popups",
+  "HideContinueBtn"                   : "0  ## *",
+  "LimitedTime_uScanDupsPhotos"       : "360002",
+  "LimitedTime_uWebProtect"           : "360002",
+  "OtherFormats"                      : "ads,iFrame,redirects,porn,popups,gambling,malware,phishing,spyware,uRmDupsPhotos,uScanDupsPhotos,uVideosOrganize,uSecretVault,uWebProtect",
+  "Promo_1week"                       : "0  ## *",
+  "ShowedIapList"                     : "1week,1year",
+  "ShowIAPAfterGuide"                 : "0  ## * : 0",
+  "ShowLoadingWhileBuy"               : "0  ## *0b11",
+  "ShowNormalSKReview"                : "2",
+  "ShowSetupGuideBtn"                 : "1  ## *Safari : 1",
+  "TempFormats"                       : "xx",
+  "TrialFlags"                        : "0  ## **0b1111",
+  "TryPurAfClose"                     : "0  ## *",
+  "UnlockProByR"                      : "0",
+  "WrTimeGap_v3"                      : "0  ## *"
+}
